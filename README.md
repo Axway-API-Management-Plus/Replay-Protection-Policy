@@ -10,7 +10,7 @@ Definition - A replay attack is a form of network attack in which a valid data t
 
 Solution - The solution that we are using is to use of ehcache using the cache and throttling filter using message and IP hash key.
 
-![Axwaylogo]( https://github.com/Axway-API-Management-Plus/Replay-Protection-Policy/blob/main/IMG/Capture.PNG ) 
+![PolicyIMG]( https://github.com/Axway-API-Management-Plus/Replay-Protection-Policy/blob/main/IMG/Capture.PNG ) 
 
 Steps involved on Replay Protection (RP) policy check -
 
