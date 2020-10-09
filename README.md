@@ -22,3 +22,7 @@ Steps involved on Replay Protection (RP) policy check -
  
 
 Hence using the 3 different cache we are currently able to stop all Replay attack.
+
+![Axwaylogo]( https://github.com/Axway-API-Management/Common/blob/master/img/AxwayLogoSmall.png ) 
+### Axway Team
+Altaf Hossain
